@@ -16,7 +16,3 @@ This is a personal portfolio website built using JavaScript, HTML, and CSS. It s
 - JavaScript (ES6+)  
 - Git & GitHub for version control and hosting (GitHub Pages)  
 
-## Installation
-
-If you want to run this project locally, follow these steps:
-
